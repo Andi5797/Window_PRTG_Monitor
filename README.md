@@ -1,7 +1,7 @@
 # Window_PRTG_Monitor
 
 **Install Packet:**
-https://drive.google.com/file/d/1VAM2NIKQYol2tvPwNVKnJi38ruG4we4E/view?usp=drive_link
+[Download link, password: PRTG](https://drive.google.com/file/d/1fdtsfZq4p6yy0dHLklmxVVMstBaasGBd/view?usp=sharing)
 
 `Step 1:` Run setup. it will force you enter an email address. enter anything that looks like an email address, like "abc@abc.com"
 
